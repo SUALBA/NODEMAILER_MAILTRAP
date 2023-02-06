@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "formulario de contacto con nodemailer y mailtrap",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUALBA/NODEMAILER_MAILTRAP.git"
+  },
+  "author": "sualba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SUALBA/NODEMAILER_MAILTRAP/issues"
+  },
+  "homepage": "https://github.com/SUALBA/NODEMAILER_MAILTRAP#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.20"
+  }
+}
